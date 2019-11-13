@@ -1,0 +1,7 @@
+pillow
+lxml
+jupyter
+matplotlib
+opencv-python
+cython
+pandas
